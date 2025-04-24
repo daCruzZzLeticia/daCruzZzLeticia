@@ -63,7 +63,7 @@ Me chamo Letícia Cruz, tenho 20 anos e sou natural da Paraíba. Concluí o ensi
 
 </br>
 
-<h3 align="center"> Contato </h3>
+<h4 align="center"> Contato </h4>
 <p align="center">
   <a href="mailto:leticiadacruz7lz@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
@@ -75,5 +75,11 @@ Me chamo Letícia Cruz, tenho 20 anos e sou natural da Paraíba. Concluí o ensi
     <img src="https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
+
+</br>
+
+<p align="right">
+<img src="https://github.com/daCruzZzLeticia/daCruzZzLeticia/blob/master/assets/cat.png" height="50" alt="imagem gato laranja" title="Galileu"/>
+<p>
 
 ---
