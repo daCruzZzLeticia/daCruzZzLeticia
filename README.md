@@ -63,7 +63,7 @@ Me chamo Letícia Cruz, tenho 20 anos e sou natural da Paraíba. Concluí o ensi
 
 </br>
 
-<h4 align="center"> Contato </h4>
+<h4 align="center"> Contato 📬 </h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/da-cruzzz-leticia/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
