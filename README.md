@@ -65,15 +65,14 @@ Me chamo Letícia Cruz, tenho 20 anos e sou natural da Paraíba. Concluí o ensi
 
 <h4 align="center"> Contato </h4>
 <p align="center">
+<a href="https://www.linkedin.com/in/da-cruzzz-leticia/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="mailto:leticiadacruz7lz@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/letícia-barbosa-m-da-cruz-b89539201/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/dacruzzz_leticia" target="_blank">
-    <img src="https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+     <a href="https://discord.gg/hyby9MER" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://dev.to/dacruzzz_leticia" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" target="_blank"></a>
 </p>
 
 </br>
