@@ -30,9 +30,6 @@
 
 ## 🔭 Outas Áreas de Interesse
 
-<table>
-<tr>
-<td style="padding: 0; border: none; vertical-align: bottom;">
 <samp>
 <p> • Inteligência Artificial (Aprendizado de Máquina | Processamento de Linguagem Natural)</p> 
 <p> • Neurociência Computacional </p>  
@@ -40,15 +37,6 @@
 <p> • Linguagens Formais </p> 
 <p> • Cibersegurança </p> 
 </samp>
-</td>
-<td style="padding: 0; border: none; vertical-align: bottom;">  
-<div style="position: relative; left: 90px; top: 40px;">
-    <img src="assets/img2.png" width="150"/>
-</div>
-   
-</td>
-</tr>
-</table>
 
 ## 📊 Atividade no GitHub
 
