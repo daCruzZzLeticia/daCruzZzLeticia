@@ -41,9 +41,12 @@
 ## 📊 Atividade no GitHub
 
 <div align="center">  
-  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api?username=daCruzZzLeticia&show_icons=true&count_private=true&hide_border=true&title_color=70A5FD&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Letícia Cruz github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daCruzZzLeticia&layout=compact&hide_border=true&title_color=70A5FD&text_color=00bfbf&bg_color=0d1117" />
+  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=daCruzZzLeticia&hide_border=true&title_color=3b82f6&text_color=70A5FD&theme=transparent&rank_icon=github&date=27072025">
+  <img width="43%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=daCruzZzLeticia&layout=compact&hide_border=true&title_color=3b82f6&text_color=70A5FD&&theme=transparent&date=27072025">
 </div>
+<p align="center">
+<img width="80%" src="https://streak-stats.demolab.com?user=daCruzZzLeticia&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&sideLabels=70A5FD&dates=70A5FD&stroke=70A5FD&currStreakNum=70A5FD&ring=3B82F6&currStreakLabel=3B82F6&fire=3B82F6&sideNums=3B82F6&excludeDaysLabel=3B82F6">
+</p>
 
 <h4 align="center"> Contato 📬 </h4>
 <p align="center">
