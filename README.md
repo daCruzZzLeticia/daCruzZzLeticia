@@ -35,7 +35,7 @@
   <img style="width:38%; max-width: 250px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=daCruzZzLeticia&layout=compact&hide_border=true&title_color=3b82f6&text_color=70A5FD&&theme=transparent&date=27072025">
 </div>
 <p align="center">
-<img style="width:80%; max-width: 330px;" src="https://streak-stats.demolab.com?user=daCruzZzLeticia&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&sideLabels=70A5FD&dates=70A5FD&stroke=70A5FD&currStreakNum=70A5FD&ring=3B82F6&currStreakLabel=3B82F6&fire=3B82F6&sideNums=3B82F6&excludeDaysLabel=3B82F6">
+<img style="width:80%; max-width: 310px;" src="https://streak-stats.demolab.com?user=daCruzZzLeticia&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&sideLabels=70A5FD&dates=70A5FD&stroke=70A5FD&currStreakNum=70A5FD&ring=3B82F6&currStreakLabel=3B82F6&fire=3B82F6&sideNums=3B82F6&excludeDaysLabel=3B82F6">
 </p>
 
 ## 🔭 Tópicos de Curiosidade
