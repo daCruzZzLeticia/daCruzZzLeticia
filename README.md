@@ -1,5 +1,5 @@
 <div align="center">
-<img style="width:150%; max-width: 860px"  src="assets/gif-ellen-repley.gif"/>
+<img style="width:150%; max-width: 840px"  src="assets/gif-ellen-repley.gif"/>
 </div>
 
 <br>
@@ -18,8 +18,6 @@
 
 ## 💻 Habilidades Técnicas
 
-<div style="display: inline-block; width: 45%; vertical-align: top;">
-
 **Back-end**
 
 <samp>`Java` `Spring Boot` `Postman` `JUnit`
@@ -28,17 +26,9 @@
 
 <samp>`PostgresSQL`<samp>
 
-</div><div style="display: inline-block; width: 45%; vertical-align: top;">
-
 **Ferramentas**
 
 <samp> `IntelliJ` `VScode` `Docker` `Git` `Github` </samp>
-
-**Outros**
-
-<samp> `Javascript` `HTML & CSS` `Python` `C` </samp>
-
-</div>
 
 ## 🎓 Formação Acadêmica
 
@@ -55,7 +45,7 @@
   <img style="width:38%; max-width: 250px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=daCruzZzLeticia&layout=compact&hide_border=true&title_color=F8981F&text_color=007396&&theme=transparent&date=27072025">
 </div>
 <p align="center">
-<img style="width:80%; max-width: 310px;" src="https://streak-stats.demolab.com?user=daCruzZzLeticia&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&sideLabels=007396&dates=007396&stroke=F8981F&currStreakNum=007396&ring=007396&currStreakLabel=F8981F&fire=F8981F&sideNums=F8981F&excludeDaysLabel=007396">
+<img style="width:80%; max-width: 290px;" src="https://streak-stats.demolab.com?user=daCruzZzLeticia&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&sideLabels=007396&dates=007396&stroke=F8981F&currStreakNum=007396&ring=007396&currStreakLabel=F8981F&fire=F8981F&sideNums=F8981F&excludeDaysLabel=007396">
 </p>
 
 ## 🔭 Tópicos de Curiosidade
