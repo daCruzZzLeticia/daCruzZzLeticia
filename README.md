@@ -1,6 +1,8 @@
 <div align="center">
-<img style="width:150%; max-width: 920px"  src="assets/gif-ellen-repley.gif"/>
+<img style="width:150%; max-width: 860px"  src="assets/gif-ellen-repley.gif"/>
 </div>
+
+<br>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -22,15 +24,15 @@
 
 <samp>`Java` `Spring Boot` `Postman` `JUnit`
 
-**Ferramentas**
-
-<samp> `IntelliJ` `VScode` `Docker` `Git` `Github` </samp>
-
-</div><div style="display: inline-block; width: 45%; vertical-align: top;">
-
 **Database**
 
 <samp>`PostgresSQL`<samp>
+
+</div><div style="display: inline-block; width: 45%; vertical-align: top;">
+
+**Ferramentas**
+
+<samp> `IntelliJ` `VScode` `Docker` `Git` `Github` </samp>
 
 **Outros**
 
