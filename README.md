@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Compilando+ideias+e+curiosidade;Debugando+c%C3%B3digo+e+pensamentos;Entre+o+backend+e+os+games;Criando%2C+aprendendo%2C+repetindo.&color=F8981F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Compilando+ideias+e+curiosidade...;Debugando+c%C3%B3digo+e+pensamentos;Entre+o+backend+e+os+games;Criando%2C+aprendendo%2C+repetindo.&color=F8981F" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,15 +20,15 @@
 
 **Back-end**
 
-<samp>`Java` `Spring Boot` `Postman` `JUnit`
-
-**Database**
-
-<samp>`PostgresSQL`<samp>
+<samp>`Java` `Spring Boot` `SQL` `Postman` `JUnit`
 
 **Ferramentas**
 
-<samp> `IntelliJ` `VScode` `Docker` `Git` `Github` </samp>
+<samp> `IntelliJ` `VScode` `PostgresSQL` `Docker` `Git` `Github` </samp>
+
+**Outros**
+
+<samp> `Javascript` `ReactJS` `HTML & CSS` `Python` `C`<samp>
 
 ## 🎓 Formação Acadêmica
 
@@ -41,11 +41,11 @@
 ## 📊 Atividade no GitHub
 
 <div align="center">  
-  <img style="width:46%; max-width: 320px;"  src="https://github-readme-stats.vercel.app/api?username=daCruzZzLeticia&hide_border=true&title_color=F8981F&text_color=007396&theme=transparent&rank_icon=github&date=27072025">
+  <img style="width:46%; max-width: 320px;"  src="https://github-readme-stats.vercel.app/api?username=daCruzZzLeticia&show_icons=true&count_private=true&hide_border=true&title_color=F8981F&icon_color=F8981F&text_color=007396&theme=transparent&rank_icon=github&date=27072025">
   <img style="width:38%; max-width: 250px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=daCruzZzLeticia&layout=compact&hide_border=true&title_color=F8981F&text_color=007396&&theme=transparent&date=27072025">
 </div>
 <p align="center">
-<img style="width:80%; max-width: 290px;" src="https://streak-stats.demolab.com?user=daCruzZzLeticia&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&sideLabels=007396&dates=007396&stroke=F8981F&currStreakNum=007396&ring=007396&currStreakLabel=F8981F&fire=F8981F&sideNums=F8981F&excludeDaysLabel=007396">
+<img style="width:80%; max-width: 270px;" src="https://streak-stats.demolab.com?user=daCruzZzLeticia&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&sideLabels=007396&dates=007396&stroke=F8981F&currStreakNum=007396&ring=007396&currStreakLabel=F8981F&fire=F8981F&sideNums=F8981F&excludeDaysLabel=007396">
 </p>
 
 ## 🔭 Tópicos de Curiosidade
