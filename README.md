@@ -2,6 +2,12 @@
 <img style="width:100%; max-width:830px"  src="assets/gif-ellen-ripley.gif"/>
 </div>
 
+<br>
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=950&color=27A326&center=true&vCenter=true&width=450&lines=%24+run+daCruzZz_Leticia.java;Compilando+ideias+e+curiosidade...;Debugando+c%C3%B3digo+e+pensamentos;Entre+o+backend+e+os+games;Criando%2C+aprendendo%2C+repetindo.&color=A917E1" alt="Typing SVG" />
+</p>
+
 ## Letícia Cruz
 
 <p align="center">
@@ -22,5 +28,3 @@ Tenho forte interesse por **cibersegurança** e busco cada vez mais formas de _i
 
 -   <img src="assets/logo-ifpb.png" height="15px"/> <strong> Curso Técnico em Informática</strong>  
     <samp> Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB) | 2020 – 2023 </samp>
-
----
