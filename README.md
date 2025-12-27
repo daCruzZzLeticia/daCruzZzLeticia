@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=950&color=27A326&center=true&vCenter=true&width=450&lines=%24+run+daCruzZz_Leticia.java;Compilando+ideias+e+curiosidade...;Debugando+c%C3%B3digo+e+pensamentos;Entre+o+backend+e+os+games;Criando%2C+aprendendo%2C+repetindo.&color=A917E1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=950&color=27A326&center=true&vCenter=true&width=450&lines=Compilando+ideias+e+curiosidade...;Debugando+c%C3%B3digo+e+pensamentos;Entre+o+backend+e+os+games;Criando%2C+aprendendo%2C+repetindo.&color=A917E1" alt="Typing SVG" />
 </p>
 
 ## Letícia Cruz
