@@ -1,3 +1,7 @@
+<div align="center">
+<img style="width:100%; max-width:830px"  src="assets/gif-ellen-ripley.gif"/>
+</div>
+
 ## Letícia Cruz
 
 <p align="center">
