@@ -1,4 +1,4 @@
-<div align="center">
+9<div align="center">
 <img style="width:150%; max-width: 840px"  src="assets/gif-ellen-repley.gif"/>
 </div>
 
@@ -55,3 +55,9 @@
   <a href="https://discord.gg/hyby9MER" target="_blank"><img src="https://img.shields.io/badge/Discord-007396?style=flat-square&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://dev.to/dacruzzz_leticia" target="_blank"><img src="https://img.shields.io/badge/dev.to-A917E1?style=flat-square&logo=devdotto&logoColor=white" target="_blank"></a>
 </p>
+
+<br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=daCruzZzLeticia.daCruzZzLeticia&"  />
+</div>
