@@ -1,3 +1,11 @@
+<div align="center">
+<img src="assets/neon-cat.gif" width="220px"/>
+</div>
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=950&center=true&vCenter=true&width=500&lines=Compilando+ideias+e+curiosidade...;Debugando+c%C3%B3digo+e+pensamentos;Criando%2C+aprendendo%2C+repetindo.&color=a917e1" alt="Typing SVG" />
+</p>
+
 # Letícia Cruz 🪐
 
 <p align="center">
