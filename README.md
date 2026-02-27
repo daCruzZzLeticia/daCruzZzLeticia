@@ -25,3 +25,10 @@ Adicionalmente, estudo **cibersegurança** com o intuito de entender vulnerabild
 
 - <img src="assets/logo-ifpb.png" height="15px"/> <strong> Curso Técnico em Informática</strong>  
   <samp> Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB) | 2020 – 2023 </samp>
+
+## Estatísticas
+
+<div align="center">  
+  <img style="width:50%; max-width: 320px;"  src="https://github-readme-stats-salesp07.vercel.app/api?username=dacruzzzleticia&count_private=true&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&title_color=a917e1&icon_color=a917e1&text_color=C4B5FD">
+  <img style="width:40%; max-width: 250px"  src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dacruzzzleticia&hide=HTML&langs_count=6&layout=compact&theme=transparent&hide_border=true&exclude_repo=github-readme-stats&title_color=a917e1&text_color=C4B5FD">
+</div>
