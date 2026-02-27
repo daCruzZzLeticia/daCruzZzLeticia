@@ -26,6 +26,23 @@ Adicionalmente, estudo **cibersegurança** com o intuito de entender vulnerabild
 - <img src="assets/logo-ifpb.png" height="15px"/> <strong> Curso Técnico em Informática</strong>  
   <samp> Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB) | 2020 – 2023 </samp>
 
+## Linguagens e Tecnologias
+
+**\<\/back-end**>
+
+ㅤㅤ![Java](https://img.shields.io/badge/Java-7E22CE?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-9333EA?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-A855F7?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-C084FC?style=for-the-badge&logo=python&logoColor=white)
+
+**\<\/outros**>
+
+ㅤㅤ![C](https://img.shields.io/badge/C-6D28D9?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-7C3AED?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-A78BFA?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-C4B5FD?style=for-the-badge&logo=react&logoColor=4C1D95)
+
 ## Estatísticas
 
 <div align="center">  
