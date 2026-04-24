@@ -63,7 +63,7 @@ Adicionalmente, estudo **cibersegurança** com o intuito de entender _vulnerabil
 [<img align="left" height="90px" width="90px" alt="Warpnet" src="assets/gerenciador-tarefas.jpeg"/>](https://github.com/leticia-academico-uepb/todo-list-leda)
 
 **ㅤ[Gerenciador de Tarefas](https://github.com/leticia-academico-uepb/todo-list-leda)** \
-ㅤSistema para organizar tarefas \
-ㅤConceitos: `Estrutura de Dados`, `AVL`, `Heap Sort`, `Hash Table`, `Linked List`, `Fila`, `Pilha`\
+ㅤSistema para organizar e listar tarefas \
+ㅤConceitos: `ED`, `AVL`, `Heap Sort`, `Hash Table`, `Linked List`, `Fila`, `Pilha`\
 ㅤTecnologias e Ferramentas: `Java`, `JavaFX`, `JUnit`, `Maven`\
 <br/>
