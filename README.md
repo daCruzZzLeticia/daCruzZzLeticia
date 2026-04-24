@@ -9,14 +9,14 @@
 # Letícia Cruz 🪐
 
 <p align="center">
+  <strong><code>desenvolvimento de software</code></strong> •
   <strong><code>back-end</code></strong> •  
-  <strong><code>cibersegurança</code></strong> •
-  <strong><code>entusiasta em embarcados</code></strong>
+  <strong><code>cibersegurança</code></strong>
 </p>
 
-Olá! Me chamo Letícia Cruz. Sou desenvolvedora focada em back-end e resolução de problemas com Java e Spring Boot. Atualmente, _estou amadurecendo minhas habilidades técnicas_ por meio de projetos, priorizando as **boas práticas**, **refatoração** e a **organização de código**.
+Olá! Me chamo Letícia Cruz. Sou estudante de desenvolvimento de software, com estudo ativo em **back-end** e resolução de problemas com **Java** e **Spring Boot**. Atualmente, _estou amadurecendo minhas habilidades técnicas_ por meio de projetos, priorizando as **boas práticas**, **refatoração** e a **organização de código**.
 
-Adicionalmente, estudo **cibersegurança** com o intuito de entender vulnerabildades e aplicar _princípios de segurança_ no desenvolvimento de aplicações.
+Adicionalmente, estudo **cibersegurança** com o intuito de entender _vulnerabildades_ e aplicar _princípios de segurança_ no desenvolvimento de aplicações.
 
 #### 🎓 Formação Acadêmica
 
@@ -49,3 +49,21 @@ Adicionalmente, estudo **cibersegurança** com o intuito de entender vulnerabild
   <img style="width:50%; max-width: 320px;"  src="https://github-readme-stats-salesp07.vercel.app/api?username=dacruzzzleticia&count_private=true&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&title_color=a917e1&icon_color=a917e1&text_color=C4B5FD">
   <img style="width:40%; max-width: 250px"  src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dacruzzzleticia&hide=HTML&langs_count=6&layout=compact&theme=transparent&hide_border=true&exclude_repo=github-readme-stats&title_color=a917e1&text_color=C4B5FD">
 </div>
+
+## Projetos Fixados
+
+[<img align="left" height="90px" width="90px" alt="Warpnet" src="assets/sistema-restaurante.jpeg"/>](https://github.com/leticia-academico-uepb/sistema-restaurante-labp2)
+
+**ㅤ[Sistema Restaurante](https://github.com/leticia-academico-uepb/sistema-restaurante-labp2)** \
+ㅤSistema para controle de comandas e pedidos \
+ㅤConceitos: `POO`, `Testes Unitários`, `Diagrama de Classes` `padrão MVC`\
+ㅤTecnologias e Ferramentas: `Java`, `JavaFX`, `JUnit`, `Maven`\
+<br/>
+
+[<img align="left" height="90px" width="90px" alt="Warpnet" src="assets/gerenciador-tarefas.jpeg"/>](https://github.com/leticia-academico-uepb/todo-list-leda)
+
+**ㅤ[Gerenciador de Tarefas](https://github.com/leticia-academico-uepb/todo-list-leda)** \
+ㅤSistema para organizar tarefas \
+ㅤConceitos: `Estrutura de Dados`, `AVL`, `Heap Sort`, `Hash Table`, `Linked List`, `Fila`, `Pilha`\
+ㅤTecnologias e Ferramentas: `Java`, `JavaFX`, `JUnit`, `Maven`\
+<br/>
