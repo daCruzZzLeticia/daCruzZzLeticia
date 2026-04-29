@@ -47,15 +47,15 @@ Adicionalmente, estudo **cibersegurança** com o intuito de entender mais sobre 
 
 ### Desenvolvendo
 
-**Monitor de fluxo de infusão** - Expansão do dispositivo eletrônico para conter back-end Spring Boot + front-end React.js + WebSocket para exibir dados em tempo real.
+**Datalogger** - Expansão do dispositivo eletrônico para conter back-end Spring Boot + front-end React.
 
 **Live chat** - explorar protocolo STOMP, configurações do WebScoket no Spring Boot e canal de mensagens persistente.
 
 ### Estudando
 
-**Métodos Avançados de Programação** - Técnicas avançadas e projeto de software orientado a objetos empregados no desenvolvimento de software (refatoração, organização, boas práticas).
+**Métodos Avançados de Programação** - Técnicas avançadas e projeto de software orientado a objetos empregados no desenvolvimento de software, padrões de projeto, técnicas de refatoramento de software.
 
-**Banco de Dados** - modelagem relacional, índices e transações.
+**Banco de Dados** - modelagem relacional, índices, transações.
 
 **Bootcamp Back-end com Java e QA** - Collections, Stream API, APIs Rest, Spring Boot, persistência de dados, fundamentos de qualidade, testes de software.
 
@@ -84,4 +84,8 @@ Adicionalmente, estudo **cibersegurança** com o intuito de entender mais sobre 
 ㅤTecnologias e Ferramentas: `Java`, `JavaFX`, `JUnit`, `Maven`\
 <br/>
 
+<div align="center">
+
 > Explore outros projetos nos repositórios fixados do perfil.
+
+</div>
